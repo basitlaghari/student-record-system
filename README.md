@@ -14,4 +14,4 @@ Data is stored in a JSON file.
 python student_system.py
 
 #author name
-Author : Abdul Basit
+Author : Abdul Basit 

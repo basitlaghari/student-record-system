@@ -71,7 +71,7 @@ def view_students(students):
         print(f"{s['id']:<10}{s['name']:<20}{s['age']:<6}{s['grade']:<8}")
     print(f"\nTotal: {len(students)} student(s)")
 
-    input("\nPress Enter to return to menu...")   # ← the important line
+    input("\nPress Enter to return to menu...")
 
 
 def delete_student(students):
