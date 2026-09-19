@@ -1,0 +1,10 @@
+# Python
+__pycache__/
+*.pyc
+
+# Student data (private)
+students.json
+
+# Editor files
+.vscode/
+.idea/
