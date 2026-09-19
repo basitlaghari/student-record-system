@@ -12,3 +12,6 @@ Data is stored in a JSON file.
 ## How to Run
 ```bash
 python student_system.py
+
+#author name
+Author : Abdul Basit
